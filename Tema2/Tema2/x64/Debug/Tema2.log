@@ -1,0 +1,3 @@
+﻿  Tema2.cpp
+C:\Users\Petcu razvan\Desktop\An2CSIE\POO\Tema2\Tema2\Tema2.cpp(15,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Tema2.vcxproj -> C:\Users\Petcu razvan\Desktop\An2CSIE\POO\Tema2\x64\Debug\Tema2.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8969541A-44BF-480F-A75B-3AC3F90A0100}|Tema1\\Tema1.vcxproj|C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema1\\Tema1\\Tema1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8969541A-44BF-480F-A75B-3AC3F90A0100}|Tema1\\Tema1.vcxproj|solutionrelative:Tema1\\Tema1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tema1.cpp",
+              "DocumentMoniker": "C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema1\\Tema1\\Tema1.cpp",
+              "RelativeDocumentMoniker": "Tema1\\Tema1.cpp",
+              "ToolTip": "C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema1\\Tema1\\Tema1.cpp",
+              "RelativeToolTip": "Tema1\\Tema1.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T11:53:27.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
