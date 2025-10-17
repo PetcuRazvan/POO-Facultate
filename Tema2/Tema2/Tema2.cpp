@@ -86,10 +86,7 @@ void exercitiuSir()
 
 	int nr = numararePrenume(vectorNume, nrNume, prenume);
 
-	cout << "Prenumele ";
-	for (int i = 0; i < strlen(prenume); i++)
-		cout << prenume[i];
-	cout << " a fost gasit de " << nr << " ori";
+	cout << "Prenumele "<<prenume<<" a fost gasit de "<<nr<<" ori";
 	
 	delete[] prenume;
 	dezalocareVectorNume(vectorNume, nrNume);

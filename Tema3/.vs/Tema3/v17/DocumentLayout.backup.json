@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E12E7E3A-04AE-45FE-B1E7-AEEC55BC4CE4}|Tema3\\Tema3.vcxproj|C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema3\\Tema3\\Tema3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E12E7E3A-04AE-45FE-B1E7-AEEC55BC4CE4}|Tema3\\Tema3.vcxproj|solutionrelative:Tema3\\Tema3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tema3.cpp",
+              "DocumentMoniker": "C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema3\\Tema3\\Tema3.cpp",
+              "RelativeDocumentMoniker": "Tema3\\Tema3.cpp",
+              "ToolTip": "C:\\Users\\Petcu razvan\\Desktop\\An2CSIE\\POO\\Tema3\\Tema3\\Tema3.cpp*",
+              "RelativeToolTip": "Tema3\\Tema3.cpp*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T19:09:07.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
