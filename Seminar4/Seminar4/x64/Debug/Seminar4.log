@@ -1,0 +1,4 @@
+﻿  Seminar4.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Seminar4\Seminar4\Seminar4.cpp(109,10): warning C4930: 'Student s3(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Seminar4\Seminar4\Seminar4.cpp(110,11): warning C4101: 'p2': unreferenced local variable
+  Seminar4.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Seminar4\x64\Debug\Seminar4.exe

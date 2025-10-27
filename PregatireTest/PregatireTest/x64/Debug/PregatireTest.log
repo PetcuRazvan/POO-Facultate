@@ -1,0 +1,16 @@
+﻿  PregatireTest.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(21,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(22,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(54,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(55,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(73,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(74,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(140,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(141,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(174,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(174,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(174,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(174,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(174,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\PregatireTest\PregatireTest.cpp(174,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PregatireTest.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\PregatireTest\x64\Debug\PregatireTest.exe
