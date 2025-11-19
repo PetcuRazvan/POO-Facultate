@@ -1,0 +1,3 @@
+﻿  Tema4.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Tema4\Tema4\Tema4.cpp(189,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  Tema4.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Tema4\x64\Debug\Tema4.exe
