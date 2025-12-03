@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\Curs9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1481E4D7-F435-4B08-9987-6EE1031AD623}|Curs9\\Curs9.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\Curs9\\Curs9\\Curs9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1481E4D7-F435-4B08-9987-6EE1031AD623}|Curs9\\Curs9.vcxproj|solutionrelative:Curs9\\Curs9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curs9.cpp",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\Curs9\\Curs9\\Curs9.cpp",
+              "RelativeDocumentMoniker": "Curs9\\Curs9.cpp",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\Curs9\\Curs9\\Curs9.cpp*",
+              "RelativeToolTip": "Curs9\\Curs9.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T07:13:59.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
