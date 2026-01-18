@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\frizerie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{636D8003-3DF3-43AE-85DE-F18389A2611E}|frizerie\\frizerie.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\frizerie\\frizerie\\frizerie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{636D8003-3DF3-43AE-85DE-F18389A2611E}|frizerie\\frizerie.vcxproj|solutionrelative:frizerie\\frizerie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frizerie.cpp",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\frizerie\\frizerie\\frizerie.cpp",
+              "RelativeDocumentMoniker": "frizerie\\frizerie.cpp",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\frizerie\\frizerie\\frizerie.cpp",
+              "RelativeToolTip": "frizerie\\frizerie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-15T20:52:15.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

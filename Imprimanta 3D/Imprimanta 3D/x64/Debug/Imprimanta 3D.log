@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Imprimanta 3D\Imprimanta 3D\FileName.cpp(81,1): warning C4715: 'Comandant::operator[]': not all control paths return a value
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Imprimanta 3D\Imprimanta 3D\FileName.cpp(34,1): warning C4715: 'Soldat::nextId': not all control paths return a value
+  Imprimanta 3D.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Imprimanta 3D\x64\Debug\Imprimanta 3D.exe

@@ -1,0 +1,8 @@
+﻿  scari.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\bloc\bloc\scari.cpp(88,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\bloc\bloc\scari.cpp(92,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\bloc\bloc\scari.cpp(94,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\bloc\bloc\scari.cpp(98,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\bloc\bloc\scari.cpp(102,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\bloc\bloc\scari.cpp(104,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  bloc.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\bloc\x64\Debug\bloc.exe

@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Cabinet veterinar\Cabinet veterinar\FileName.cpp(36,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Cabinet veterinar\Cabinet veterinar\FileName.cpp(42,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Cabinet veterinar\Cabinet veterinar\FileName.cpp(72,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Cabinet veterinar.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Cabinet veterinar\x64\Debug\Cabinet veterinar.exe

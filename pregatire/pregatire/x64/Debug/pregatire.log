@@ -1,0 +1,3 @@
+﻿  pregatire.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\pregatire\pregatire\pregatire.cpp(212,20): warning C4305: '*=': truncation from 'double' to 'float'
+  pregatire.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\pregatire\x64\Debug\pregatire.exe

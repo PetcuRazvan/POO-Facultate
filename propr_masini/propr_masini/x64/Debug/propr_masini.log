@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\propr_masini\propr_masini\FileName.cpp(26,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\propr_masini\propr_masini\FileName.cpp(137,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  propr_masini.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\propr_masini\x64\Debug\propr_masini.exe

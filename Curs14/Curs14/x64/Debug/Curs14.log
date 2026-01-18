@@ -1,0 +1,4 @@
+﻿  curs14.cpp
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Curs14\Curs14\curs14.cpp(24,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Curs14\Curs14\curs14.cpp(26,6): warning C4101: 'i': unreferenced local variable
+  Curs14.vcxproj -> C:\Users\Razvan Petcu\Desktop\An2CSIE\POO-Facultate\Curs14\x64\Debug\Curs14.exe

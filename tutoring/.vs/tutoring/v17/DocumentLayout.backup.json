@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\tutoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7573803F-F213-404E-8D28-1A3171680B2C}|tutoring\\tutoring.vcxproj|C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\tutoring\\tutoring\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7573803F-F213-404E-8D28-1A3171680B2C}|tutoring\\tutoring.vcxproj|solutionrelative:tutoring\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\tutoring\\tutoring\\FileName.cpp",
+              "RelativeDocumentMoniker": "tutoring\\FileName.cpp",
+              "ToolTip": "C:\\Users\\Razvan Petcu\\Desktop\\An2CSIE\\POO-Facultate\\tutoring\\tutoring\\FileName.cpp*",
+              "RelativeToolTip": "tutoring\\FileName.cpp*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-17T10:01:20.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
